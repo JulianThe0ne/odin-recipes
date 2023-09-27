@@ -1,0 +1,29 @@
+h1, h3  {
+  font-family: Verdana, Helvetica, sans-serif;
+  color: rgb(7, 143, 59);
+  background-color: beige;
+}
+a {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgba(137, 43, 226, 0.265);
+  color: rgb(79, 9, 81);
+}
+
+.description, .nutrition {
+  font-family: Monaco;
+  font-size: small;
+}
+
+.description {
+  font-size: medium;
+  background-color: rgba(243, 4, 115, 0.273);
+}
+
+.ingredients {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.steps {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
